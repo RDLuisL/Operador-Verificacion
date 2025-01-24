@@ -16,6 +16,14 @@ box-shadow: 0 1px 3px 0 rgba(0,0,0,.1), 0 1px 2px 0 rgba(0,0,0,.06);
     color: #E7BB27;
 }
 
+.rounded {
+    border-radius: 25px !important;
+}
+
+.zoom-effect {
+    transform: scale(1.5)
+}
+
 .operator-box {
     background-color: #303E74;
     color: #DDDC2A;
